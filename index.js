@@ -1,16 +1,13 @@
-<!DOCTYPE html>
 <html>
 <body>
 
-<h1>My Web Page</h1>
+<h1>My First Heading</h1>
 
-<p id="demo">A Paragraph.</p>
+<h1>My First Heading</h1>
 
-<button type="button" onclick="myFunction()">点击这里</button>
+<p>My first paragraph.</p>
 
-<p><b>注释：</b>myFunction 保存在名为 "myScript.js" 的外部文件中。</p>
-
-<script type="text/javascript" src="/js/myScript.js"></script>
+<p>My first paragraph.</p>
 
 </body>
 </html>
